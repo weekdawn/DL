@@ -1,10 +1,10 @@
 #### 本模型是一个单隐层神经网络，包含2个输入单元，4个隐藏单元和1个输出单元
 
-![](.\img\models.png)
+![models](img\models.png)
 
 #### 第一层采用的激活函数为tanh，第二层采用的激活函数为sigmoid
 
-![](.\img\formulas.jpg)
+![formulas](img\formulas.jpg)
 
 #### 首先介绍关于建立一个神经网络通用过程
 
