@@ -2,23 +2,23 @@
 
 神经网络模型架构：
 
-![NlayerNN]()
+![NlayerNN](https://github.com/weekdawn/DL/tree/master/DNNforCatRecognize/images/NlayerNN.png)
 
-![model)_architecture]()
+![model)_architecture](https://github.com/weekdawn/DL/tree/master/DNNforCatRecognize/images/model_rachitectue2.png)
 
-![final_outline]()
+![final_outline](https://github.com/weekdawn/DL/tree/master/DNNforCatRecognize/images/final outline.png)
 
 对输入图片的向量化处理：
 
-![imvector]()
+![imvector](https://github.com/weekdawn/DL/tree/master/DNNforCatRecognize/images/imvectorkiank.png)
 
 线性函数的反向计算：
 
-![linearback]()
+![linearback](https://github.com/weekdawn/DL/tree/master/DNNforCatRecognize/images/linearback_kiank.png)
 
 反向传播计算：
 
-![n_model_back]()
+![n_model_back](https://github.com/weekdawn/DL/tree/master/DNNforCatRecognize/images/n_model_backward.png)
 
 
 
